@@ -1,2 +1,9 @@
 # EDA-Project-Foreign-exchange
-Making EDA by exchange rates by file: "foreign_exchange_rates.csv"
+In this repository I did exploratory data analysis of exchange rates
+
+Github link to repository: https://github.com/MadoDoctor/EDA-Project-Foreign-exchange
+
+# Installation
+There are used libraries like NumPy, pandas, matplotlib, seaborn, csv and datetime
+
+#Updating README.md
