@@ -7,3 +7,4 @@ Github link to repository: https://github.com/MadoDoctor/EDA-Project-Foreign-exc
 There are used libraries like NumPy, Pandas, Matplotlib, Seaborn, CSV and Datetime
 
 # Updating README.md
+soon
