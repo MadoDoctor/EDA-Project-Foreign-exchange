@@ -25,6 +25,6 @@ We calculated on which day of the week the data are most absent, dropped all row
 
 Firstly we dropped all rows with no data. Then changed the column names to make them understandable. We taked mean value for each currency:
 
-![image](https://user-images.githubusercontent.com/74544370/115555673-949b4380-a2d1-11eb-89c2-b6e9aee4e4db.png)
+![Mean](https://user-images.githubusercontent.com/74544370/115555804-c3191e80-a2d1-11eb-8096-9f76fe3adbc3.png)
 
 ![Mean values](https://sun9-8.userapi.com/impg/LmESwn1rSfwMYcDmGGGr8GVI8KWggDjeUrh7kA/1_Le6kRPTDo.jpg?size=279x479&quality=96&sign=6fedc3c7121675e3c1e351839b86e018&type=album)
