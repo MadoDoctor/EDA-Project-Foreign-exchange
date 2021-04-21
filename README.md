@@ -3,8 +3,13 @@ In this repository I did exploratory data analysis of foreign exchange rates
 
 Github link to repository: https://github.com/MadoDoctor/EDA-Project-Foreign-exchange
 
-# Installation
+# First step: Installation
 There are used libraries like NumPy, Pandas, Matplotlib, Seaborn, CSV and Datetime
 
-# Updating README.md
-soon
+# Second step: Data pre-processing
+
+![Alt-текст]https://disk.yandex.kz/i/MsxfQWIzYYjclw "")
+We removed the first column as it is repeating the index, then taked general info as shape and columns type
+
+#
+
