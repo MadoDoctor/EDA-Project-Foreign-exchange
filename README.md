@@ -21,6 +21,8 @@ We divided the "Time Serie" column into days, months, years and days of the week
 
 ![Euro with time serie](https://user-images.githubusercontent.com/74544370/115555909-e04ded00-a2d1-11eb-863f-19c385823e63.png)
 
+![Mean](https://sun9-58.userapi.com/impg/Vluy9UPmsZPYjNFEsdOF0zTw0UHgf0MW3xfNVA/rqCmHNembnI.jpg?size=167x175&quality=96&sign=d4f2b69821ff0afc813af60d3e313c9a&type=album)
+
 We calculated on which day of the week the data are most absent, dropped all rows with no data and checked in which day of the week was the maximum and minimum value of Euro and the maximum and minimum values for each year.
 
 # Working with all columns
@@ -29,4 +31,3 @@ Firstly we dropped all rows with no data. Then changed the column names to make 
 
 ![Mean](https://user-images.githubusercontent.com/74544370/115555804-c3191e80-a2d1-11eb-8096-9f76fe3adbc3.png)
 
-![Mean](https://sun9-8.userapi.com/impg/LmESwn1rSfwMYcDmGGGr8GVI8KWggDjeUrh7kA/1_Le6kRPTDo.jpg?size=279x479&quality=96&sign=6fedc3c7121675e3c1e351839b86e018&type=album)
