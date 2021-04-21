@@ -3,9 +3,11 @@ In this repository I did exploratory data analysis of foreign exchange rates
 
 Github link to repository: https://github.com/MadoDoctor/EDA-Project-Foreign-exchange
 
-# Installation
+# Importing
 
-There are used libraries like NumPy, Pandas, Matplotlib, Seaborn, CSV and Datetime
+There are used libraries like NumPy, Pandas, Matplotlib, Seaborn, CSV and Datetime:
+
+![Importing](https://user-images.githubusercontent.com/74544370/115556080-112e2200-a2d2-11eb-9909-4315587655f9.png)
 
 # Data pre-processing
 
