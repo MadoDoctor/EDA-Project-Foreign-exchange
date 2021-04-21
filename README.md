@@ -12,5 +12,9 @@ There are used libraries like NumPy, Pandas, Matplotlib, Seaborn, CSV and Dateti
 
 We removed the first column as it is repeating the index, then taked general info as shape and columns type
 
-#
+# We did a training session with Euro column
+
+We divided the "Time Serie" column into days, months, years and days of the week to find out on which day of the week the data is most absent:
+
+![Euro with time serie](https://sun9-58.userapi.com/impg/Vluy9UPmsZPYjNFEsdOF0zTw0UHgf0MW3xfNVA/rqCmHNembnI.jpg?size=167x175&quality=96&sign=d4f2b69821ff0afc813af60d3e313c9a&type=album)
 
