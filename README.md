@@ -8,7 +8,7 @@ There are used libraries like NumPy, Pandas, Matplotlib, Seaborn, CSV and Dateti
 
 # Second step: Data pre-processing
 
-![Data](https://disk.yandex.kz/i/MsxfQWIzYYjclw)
+![Data](https://sun9-74.userapi.com/impg/kILY3jgmRfOlpIqbttDVVxQRqk_X7azutjem0Q/g-syVTl8Wng.jpg?size=1018x337&quality=96&sign=7c12d9d4be1f2171ab05cd1bbdb70078&type=album)
 
 We removed the first column as it is repeating the index, then taked general info as shape and columns type
 
