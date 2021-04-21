@@ -21,8 +21,6 @@ We divided the "Time Serie" column into days, months, years and days of the week
 
 ![Euro with time serie](https://user-images.githubusercontent.com/74544370/115555909-e04ded00-a2d1-11eb-863f-19c385823e63.png)
 
-![Mean](https://sun9-58.userapi.com/impg/Vluy9UPmsZPYjNFEsdOF0zTw0UHgf0MW3xfNVA/rqCmHNembnI.jpg?size=167x175&quality=96&sign=d4f2b69821ff0afc813af60d3e313c9a&type=album)
-
 We calculated on which day of the week the data are most absent, dropped all rows with no data and checked in which day of the week was the maximum and minimum value of Euro and the maximum and minimum values for each year.
 
 # Working with all columns
