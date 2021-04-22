@@ -14,8 +14,6 @@ In this exploratory data analysis we worked with packages:
 * CSV;
 * Datetime.
 
-![Importing](https://user-images.githubusercontent.com/74544370/115556080-112e2200-a2d2-11eb-9909-4315587655f9.png)
-
 # Data pre-processing
 
 ![Data](https://user-images.githubusercontent.com/74544370/115555954-ec39af00-a2d1-11eb-87ca-8aa5d4a8c5db.png)
