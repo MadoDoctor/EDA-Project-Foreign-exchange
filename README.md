@@ -42,7 +42,4 @@ We moved all column names to one column and their values to another, by using ma
 
 ![plot](https://user-images.githubusercontent.com/74544370/115556831-e8f2f300-a2d2-11eb-8440-91680d176fcc.png)
 
-Then sorted currencies in descending order of their values:
-
-![image](https://user-images.githubusercontent.com/74544370/115557098-30797f00-a2d3-11eb-8583-aaec35559c0a.png)
-
+Then we sorted currencies in descending order of their values.
