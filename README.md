@@ -42,4 +42,4 @@ We moved all column names to one column and their values to another, by using ma
 
 ![plot](https://user-images.githubusercontent.com/74544370/115556831-e8f2f300-a2d2-11eb-8440-91680d176fcc.png)
 
-Then we sorted currencies in descending order of their values.
+Then we sorted currencies in descending order of their values. By sorting, we can take information like the most expensive or the cheapest currency in our data.
