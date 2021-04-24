@@ -1,5 +1,5 @@
 # EDA-Project-Foreign-exchange
-In this repository I did exploratory data analysis of foreign exchange rates. This dataset was generated on the Federal Reserve's Download Data Program. Some changes were made in the dataset, such as header simplifications and inversions of base currency. For example, Fed provides Australian Dollar, Euro, New Zeland Dollar and United Kingdom Pound based in their units (not in dollar)
+In this repository I did exploratory data analysis of foreign exchange rates. This dataset was generated on the Federal Reserve's Download Data Program. Some changes were made in the dataset, such as header simplifications and inversions of base currency. For example, Fed provides Australian Dollar, Euro, New Zeland Dollar and United Kingdom Pound based in their units (not in dollar).
 
 Link to kaggle: https://www.kaggle.com/brunotly/foreign-exchange-rates-per-dollar-20002019
 
