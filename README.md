@@ -38,7 +38,7 @@ Firstly we dropped all rows with no data. Then changed the column names to make 
 
 Mean value for each currency was to all years, we can take mean value for every year if we want.
 
-# Plotting a graph by year for all columns
+# Data visualization
 
 We moved all column names to one column and their values to another, by using matplotlib.pyplot we plotted lineplot:
 
